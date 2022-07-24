@@ -42,6 +42,12 @@
 </div>
 </details>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+<br>
+
 <details>
   <summary>🧮 about</summary>
 <div>
@@ -148,5 +154,4 @@
 </details>
 
 ------
-Credit: [1999azzar](https://github.com/1999azzar)
-Last Edited on: 01/06/2022
+
