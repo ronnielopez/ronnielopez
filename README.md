@@ -66,6 +66,4 @@
 ![Ronnie's github stats](https://github-readme-stats.vercel.app/api?username=ronnielopez&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![Rpnnie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnielopez&theme=tokyonight&layout=compact)
-<a href="https://github.com/rahulkarda/IP-Address_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnielopez&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ronnielopez&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Ronnie's GitHub Contributions Graph"/>
