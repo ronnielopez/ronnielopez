@@ -43,7 +43,7 @@
 </details>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnielopez&theme=algolia" alt="ronnielopez" /></p>
 
 <br>
 <br>
