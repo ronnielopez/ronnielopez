@@ -11,6 +11,8 @@
        alt="snake" /></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Technologies I like
 
 ![](https://img.shields.io/badge/Lang-Javascript-ffbf00?style=for-the-badge&labelColor=272935&logo=javascript)
@@ -25,8 +27,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&labelColor=272935&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=272935&logo=intellijidea)
 
----
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=ronnielopez&show_icons=true&theme=tokyonight)
