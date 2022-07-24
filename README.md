@@ -64,6 +64,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 ![Ronnie's github stats](https://github-readme-stats.vercel.app/api?username=ronnielopez&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnielopez&theme=tokyonight" alt="mystreak"/>
 ![Rpnnie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnielopez&theme=tokyonight&layout=compact)
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ronnielopez&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Ronnie's GitHub Contributions Graph"/>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ronnielopez&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" alt="Ronnie's GitHub Contributions Graph"/>
